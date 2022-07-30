@@ -1,4 +1,4 @@
- ** Hello Word 🌎!! 
+## Hello Word 🌎!! 
 
  I'm Kroma, an Arquitect (the real ones) just a new web developer, right now i´m learning next.js but i know some of html, css, bootstrap, python, 
  javascript, sql, react, flask, and others. CHECK  OUT MY REPOSITORY !!!  I think my best project is kromawebapp, it was the 
