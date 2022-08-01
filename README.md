@@ -1,4 +1,4 @@
-## Hello Word 🌎!! 
+## 🪐 Hello Word !! 
 
 Hi i´m Kroma, here I'm an Front-End developer.
  
