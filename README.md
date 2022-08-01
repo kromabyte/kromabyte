@@ -3,7 +3,7 @@
 Hi i´m Kroma, here I'm an Front-End developer.
  
  ## 💎 Projects
- [Kromapp](https://github.com/kromabyte/Kroma_webapp)Made in Flask
+ [Kromapp](https://github.com/kromabyte/Kroma_webapp)- Made in Flask
  
  ## 🧰 Languages, Frameworks and Tools.
 
