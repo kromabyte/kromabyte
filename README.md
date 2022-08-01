@@ -1,6 +1,6 @@
 ## 🪐 Hello Word !! 
 
-Hi i´m Kroma, here I'm an Front-End developer.
+Hi i'm Kroma, here I'm a Front-End developer.
  
  ## 🏗 Projects.
  - [Kromapp](https://github.com/kromabyte/Kroma_webapp) - Made in Flask
