@@ -38,6 +38,4 @@ Hi i'm Kroma, here I'm a Front-End developer.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kromabyte&show_icons=true&locale=en&layout=compact" alt="kromabyte" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kromabyte&" alt="kromabyte" /></p>
-
 
