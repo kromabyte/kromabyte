@@ -3,8 +3,9 @@
 Hi i'm Kroma, here I'm a Front-End developer.
  
  ## 🏗 Projects.
- - [Kromapp](https://github.com/kromabyte/Kroma_webapp) - Made in Flask
- - [Pokemon](https://github.com/kromabyte/Pokemon) - Made in Next.js
+ - [Kromapp](https://github.com/kromabyte/Kroma_webapp) - Made with Flask
+ - [Pokemon](https://github.com/kromabyte/Pokemon) - Made with Next.js
+ - [Google Search ](https://github.com/kromabyte/Google-Search) - Made with Html and Css.
  
  
  ## 🧰 Languages, Frameworks and Tools.
