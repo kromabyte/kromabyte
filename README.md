@@ -8,7 +8,7 @@ Hi i'm Kroma, here I'm a Full-Stack developer.
  - [Wikipedia ](https://github.com/kromabyte/Wikipedia) - Made with Django.
  - [Pokemon](https://github.com/kromabyte/Pokemon) - Made with Next.js
  - [Google Search ](https://github.com/kromabyte/Google-Search) - Made with Html and Css.
- - [KromaCoin ]([https://github.com/kromabyte/Google-Search](https://kromabyte.com/kromacoin/)) - Made with Html and Css.
+ - [KromaCoin ](https://kromabyte.com/kromacoin) - Made with Html and Css.
 
  
  ## 🧰 Languages, Frameworks and Tools.
