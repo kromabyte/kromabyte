@@ -1,6 +1,6 @@
 ## Hello Word !! 
 
-I'm Kroma, a Architect and Software developer from Chile.
+I'm Kroma, a Architect, Street Artist and Software developer from Chile.
  
  ## 🏗 Projects.
  - [Kromapp](https://github.com/kromabyte/Kroma_webapp) - Made with Flask
