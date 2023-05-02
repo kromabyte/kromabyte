@@ -1,6 +1,6 @@
-## 🪐 Hello Word !! 
+## Hello Word !! 
 
-Hi i'm Kroma, here I'm a Full-Stack developer.
+I'm Kroma, a Architect and Software developer from Chile.
  
  ## 🏗 Projects.
  - [Kromapp](https://github.com/kromabyte/Kroma_webapp) - Made with Flask
