@@ -4,7 +4,7 @@ I'm Kroma, a Architect, Street Artist and Software Developer from Chile. I love 
  
  ## 🏗 Projects.
  - [Kromapp](https://github.com/kromabyte/Kroma_webapp) - Made with Flask
- - [Super Auctions ](https://github.com/kromabyte/super-auctions) - Made with Django.
+ - [Best Auctions ](https://github.com/kromabyte/super-auctions) - Made with Django.
  - [Wikipedia ](https://github.com/kromabyte/Wikipedia) - Made with Django.
  - [Pokemon](https://github.com/kromabyte/Pokemon) - Made with Next.js
  - [Google Search ](https://github.com/kromabyte/Google-Search) - Made with Html and Css.
