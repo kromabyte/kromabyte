@@ -2,7 +2,7 @@
 
 I'm Kroma, a Architect, Street Artist and Software Developer from Chile. I love to solve desing problems, develop new features and desing prototypes using different mediums, as 3D modeling, digital manufacturing and development of multidisciplinary projects through Design Thinking.
  
- ## 🏗 Projects.
+ ## Projects.
  - [Kromapp](https://github.com/kromabyte/Kroma_webapp) - a web application Made with Flask that serve as a artwork portfolio.
  - [Best Auctions ](https://github.com/kromabyte/Best-Auctions) - a web application Made with Django that allows users to bid on items that are in auction.
  - [MyEncyclopedia ](https://github.com/kromabyte/MyEncyclopedia) - Made with Django.
@@ -11,7 +11,7 @@ I'm Kroma, a Architect, Street Artist and Software Developer from Chile. I love 
  - [KromaCoin ](https://kromabyte.com/kromacoin) - Made with Html and Css.
 
  
- ## 🧰 Languages, Frameworks, Software and Tools.
+ ## Languages, Frameworks, Software and Tools.
 
 <p align="left"> 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
