@@ -7,7 +7,7 @@ I'm Kroma, a Architect, Street Artist and Software Developer from Chile. I love 
  - [Best Auctions ](https://github.com/kromabyte/Best-Auctions) - a web application made with Django that allows users to bid on items that are in auction.
  - [My Encyclopedia ](https://github.com/kromabyte/MyEncyclopedia) - a web application made with Django that can used to save a data  as an encyclopedia.
  - [Pokemon](https://github.com/kromabyte/Pokemon) - a web application made with Next.js that shows some pokemons.
- - [KromaCoin ](https://kromabyte.com/kromacoin) - a cryptoCurrency project.
+ - [KromaCoin ](https://kromabyte.com/kromacoin) - a cryptoCurrency project 💎🔨.
  - [Google Search ](https://github.com/kromabyte/Google-Search) - a copy of the google search page made with Html and Css.
 
  
