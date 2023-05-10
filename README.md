@@ -3,12 +3,12 @@
 I'm Kroma, a Architect, Street Artist and Software Developer from Chile. I love to solve desing problems, develop new features and desing prototypes using different mediums, as 3D modeling, digital manufacturing and development of multidisciplinary projects through Design Thinking.
  
  ## Projects.
- - [Kromapp](https://github.com/kromabyte/Kroma_webapp) - a web application Made with Flask that serve as a artwork portfolio.
- - [Best Auctions ](https://github.com/kromabyte/Best-Auctions) - a web application Made with Django that allows users to bid on items that are in auction.
- - [My Encyclopedia ](https://github.com/kromabyte/MyEncyclopedia) - a web application Made with Django that can used to save a data  as an encyclopedia.
- - [Pokemon](https://github.com/kromabyte/Pokemon) - Made with Next.js
- - [Google Search ](https://github.com/kromabyte/Google-Search) - Made with Html and Css.
- - [KromaCoin ](https://kromabyte.com/kromacoin) - Made with Html and Css.
+ - [Kromapp](https://github.com/kromabyte/Kroma_webapp) - a web application made with Flask that serve as a artwork portfolio.
+ - [Best Auctions ](https://github.com/kromabyte/Best-Auctions) - a web application made with Django that allows users to bid on items that are in auction.
+ - [My Encyclopedia ](https://github.com/kromabyte/MyEncyclopedia) - a web application made with Django that can used to save a data  as an encyclopedia.
+ - [Pokemon](https://github.com/kromabyte/Pokemon) - a web application made with Next.js that shows some pokemons.
+ - [KromaCoin ](https://kromabyte.com/kromacoin) - a cryptoCurrency project.
+ - [Google Search ](https://github.com/kromabyte/Google-Search) - a copy of the google search page made with Html and Css.
 
  
  ## Languages, Frameworks, Software and Tools.
