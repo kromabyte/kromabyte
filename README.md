@@ -1,6 +1,6 @@
 ## Hello Word !! 
 
-I'm Kroma, an Architect, Street Artist and Software Developer from Chile. I love to solve desing problems, develop new features and desing prototypes using different media, as 3D modeling, digital manufacturing and development of multidisciplinary projects through Design Thinking.
+I'm Kroma, an Architect and Software Developer from Chile. I love to solve desing problems, develop new features and desing prototypes using different media, as 3D modeling, digital manufacturing and development of multidisciplinary projects through Design Thinking.
  
  ## Projects.
  - [Kromapp](https://github.com/kromabyte/Kroma_webapp) - a web application made with Flask that serve as a artwork portfolio.⭐️
