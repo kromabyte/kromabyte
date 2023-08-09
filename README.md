@@ -1,4 +1,4 @@
-## Hello Word !! 
+## Hello World !! 
 
 I'm Kroma, an Architect and Software Developer from Chile. I love to solve desing problems, develop new features and desing prototypes using different media, as 3D modeling, digital manufacturing and development of multidisciplinary projects through Design Thinking.
  
