@@ -2,7 +2,7 @@
 
 I'm Kroma, an Architect and Software Developer from Chile. I love to solve desing problems, develop new features and desing prototypes using different media, as 3D modeling, digital manufacturing and development of multidisciplinary projects through Design Thinking.
 
-Currently i'm working on a crypto currency project called [### KromaCoin ](https://github.com/kromabyte/kromacoin) It is a web application created using astro as a framework. (I need help with the backend, blockchain and stuff, any help is greatly appreciated)
+Currently i'm working on a crypto currency project called **[KromaCoin ](https://github.com/kromabyte/kromacoin)** It is a web application created using astro as a framework. (I need help with the backend, blockchain and stuff, any help is greatly appreciated)
  
  ## Projects.
  - [Kromapp](https://github.com/kromabyte/Kroma_webapp) - a web application made with Flask that serve as a artwork portfolio.⭐️
