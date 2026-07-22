@@ -2,7 +2,7 @@
 
 I'm Kroma, Web Developer from Chile. 
 
-Currently i'm working on  **[Altos del Caliboro Market]([https://altosdelcaliboro.vercel.app](https://altosdelcaliboro.vercel.app/))** 
+Currently i'm working on  **[Altos del Caliboro Market](https://github.com/kromabyte/template-page)** 
  ## Projects.
  - [Kromapp](https://github.com/kromabyte/Kroma_webapp) - a web application made with Flask that serve as a artwork portfolio.⭐️
  - [Best Auctions ](https://github.com/kromabyte/Best-Auctions) - a web application made with Django that allows users to bid on items that are in auction.
