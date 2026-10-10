@@ -1,4 +1,4 @@
-## Good Artists copy; Great Artists steal.
+## Good artists copy; Great artists steal.
 
 
 
