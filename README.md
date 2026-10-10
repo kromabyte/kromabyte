@@ -1,6 +1,4 @@
-## Hola
-
-I'm Kroma, Web Developer from Chile. 
+Bad Artists copy; Great Artists steal.
 
 
 
