@@ -1,9 +1,9 @@
-## Good artists copy; Great artists steal.
+## Software development think tank ⚗️.
 
-### Software development think tank ⚗️.
-
-This is where the magic happens 🎩 🐇.
+### This is where the magic happens 🎩 🐇.
 
 - 🪙 kromacoin another cryptocurrency.
 - 🎨 street artist web portfolio.
-- 🥕 a vegetal e commerce 
+- 🥕 a vegetal e commerce
+
+## Good artists copy; Great artists steal.
