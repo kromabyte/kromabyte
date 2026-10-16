@@ -6,4 +6,3 @@
 - 🎨 street artist web portfolio.
 - 🥕 a vegetal e commerce
 
-## Good artists copy; Great artists steal.
